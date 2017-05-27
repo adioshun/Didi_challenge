@@ -11,7 +11,7 @@
 
 ### Docker 
 
-1. docker pull adioshun/ros:full
+1. docker pull adioshun/ros:full-python2
 2. mkdir ~/docker_share
 3. xhost +
 3. docker run -i -t --name ROS --volume /home/adioshun/docker_share:/root/share 4621d4fe2959 /bin/bash
