@@ -1,0 +1,311 @@
+name: python2
+channels:
+- !!python/unicode
+  'https://conda.binstar.org/menpo'
+- !!python/unicode
+  'anaconda'
+- !!python/unicode
+  'defaults'
+dependencies:
+- !!python/unicode
+  'apptools=4.4.0=py27_0'
+- !!python/unicode
+  'configobj=5.0.6=py27_0'
+- !!python/unicode
+  'envisage=4.5.1=py27_0'
+- !!python/unicode
+  'mayavi=4.5.0=py27_0'
+- !!python/unicode
+  'pango=1.40.3=1'
+- !!python/unicode
+  'pyface=5.1.0=py27_0'
+- !!python/unicode
+  'pyqt=4.11.4=py27_4'
+- !!python/unicode
+  'qt=4.8.7=4'
+- !!python/unicode
+  'qtconsole=4.2.1=py27_0'
+- !!python/unicode
+  'traits=4.6.0=py27_0'
+- !!python/unicode
+  'traitsui=5.1.0=py27_0'
+- !!python/unicode
+  'vtk=6.3.0=py27_1'
+- !!python/unicode
+  'backports=1.0=py27_0'
+- !!python/unicode
+  'backports_abc=0.5=py27_0'
+- !!python/unicode
+  'bleach=1.5.0=py27_0'
+- !!python/unicode
+  'cairo=1.14.8=0'
+- !!python/unicode
+  'configparser=3.5.0=py27_0'
+- !!python/unicode
+  'dbus=1.10.10=0'
+- !!python/unicode
+  'decorator=4.0.11=py27_0'
+- !!python/unicode
+  'entrypoints=0.2.2=py27_1'
+- !!python/unicode
+  'enum34=1.1.6=py27_0'
+- !!python/unicode
+  'expat=2.1.0=0'
+- !!python/unicode
+  'fontconfig=2.12.1=3'
+- !!python/unicode
+  'freetype=2.5.5=2'
+- !!python/unicode
+  'functools32=3.2.3.2=py27_0'
+- !!python/unicode
+  'get_terminal_size=1.0.0=py27_0'
+- !!python/unicode
+  'glib=2.50.2=1'
+- !!python/unicode
+  'gst-plugins-base=1.8.0=0'
+- !!python/unicode
+  'gstreamer=1.8.0=0'
+- !!python/unicode
+  'harfbuzz=0.9.39=2'
+- !!python/unicode
+  'hdf5=1.8.17=1'
+- !!python/unicode
+  'html5lib=0.999=py27_0'
+- !!python/unicode
+  'icu=54.1=0'
+- !!python/unicode
+  'ipykernel=4.6.1=py27_0'
+- !!python/unicode
+  'ipython=5.3.0=py27_0'
+- !!python/unicode
+  'ipython_genutils=0.2.0=py27_0'
+- !!python/unicode
+  'ipywidgets=6.0.0=py27_0'
+- !!python/unicode
+  'jbig=2.1=0'
+- !!python/unicode
+  'jinja2=2.9.6=py27_0'
+- !!python/unicode
+  'jpeg=9b=0'
+- !!python/unicode
+  'jsonschema=2.6.0=py27_0'
+- !!python/unicode
+  'jupyter=1.0.0=py27_3'
+- !!python/unicode
+  'jupyter_client=5.0.1=py27_0'
+- !!python/unicode
+  'jupyter_console=5.1.0=py27_0'
+- !!python/unicode
+  'jupyter_core=4.3.0=py27_0'
+- !!python/unicode
+  'libffi=3.2.1=1'
+- !!python/unicode
+  'libgcc=5.2.0=0'
+- !!python/unicode
+  'libiconv=1.14=0'
+- !!python/unicode
+  'libpng=1.6.27=0'
+- !!python/unicode
+  'libsodium=1.0.10=0'
+- !!python/unicode
+  'libtiff=4.0.6=3'
+- !!python/unicode
+  'libxcb=1.12=1'
+- !!python/unicode
+  'libxml2=2.9.4=0'
+- !!python/unicode
+  'markupsafe=0.23=py27_2'
+- !!python/unicode
+  'mistune=0.7.4=py27_0'
+- !!python/unicode
+  'mkl=2017.0.1=0'
+- !!python/unicode
+  'nbconvert=5.1.1=py27_0'
+- !!python/unicode
+  'nbformat=4.3.0=py27_0'
+- !!python/unicode
+  'notebook=5.0.0=py27_0'
+- !!python/unicode
+  'numpy=1.11.3=py27_0'
+- !!python/unicode
+  'openssl=1.0.2l=0'
+- !!python/unicode
+  'pandocfilters=1.4.1=py27_0'
+- !!python/unicode
+  'path.py=10.3.1=py27_0'
+- !!python/unicode
+  'pathlib2=2.2.1=py27_0'
+- !!python/unicode
+  'pcre=8.39=1'
+- !!python/unicode
+  'pexpect=4.2.1=py27_0'
+- !!python/unicode
+  'pickleshare=0.7.4=py27_0'
+- !!python/unicode
+  'pip=9.0.1=py27_1'
+- !!python/unicode
+  'pixman=0.34.0=0'
+- !!python/unicode
+  'prompt_toolkit=1.0.14=py27_0'
+- !!python/unicode
+  'ptyprocess=0.5.1=py27_0'
+- !!python/unicode
+  'pygments=2.2.0=py27_0'
+- !!python/unicode
+  'python=2.7.13=0'
+- !!python/unicode
+  'python-dateutil=2.6.0=py27_0'
+- !!python/unicode
+  'pyzmq=16.0.2=py27_0'
+- !!python/unicode
+  'readline=6.2=2'
+- !!python/unicode
+  'scandir=1.5=py27_0'
+- !!python/unicode
+  'setuptools=27.2.0=py27_0'
+- !!python/unicode
+  'simplegeneric=0.8.1=py27_1'
+- !!python/unicode
+  'singledispatch=3.4.0.3=py27_0'
+- !!python/unicode
+  'sip=4.18=py27_0'
+- !!python/unicode
+  'six=1.10.0=py27_0'
+- !!python/unicode
+  'sqlite=3.13.0=0'
+- !!python/unicode
+  'ssl_match_hostname=3.4.0.2=py27_1'
+- !!python/unicode
+  'terminado=0.6=py27_0'
+- !!python/unicode
+  'testpath=0.3=py27_0'
+- !!python/unicode
+  'tk=8.5.18=0'
+- !!python/unicode
+  'tornado=4.5.1=py27_0'
+- !!python/unicode
+  'traitlets=4.3.2=py27_0'
+- !!python/unicode
+  'wcwidth=0.1.7=py27_0'
+- !!python/unicode
+  'wheel=0.29.0=py27_0'
+- !!python/unicode
+  'widgetsnbextension=2.0.0=py27_0'
+- !!python/unicode
+  'xz=5.2.2=1'
+- !!python/unicode
+  'zeromq=4.1.5=0'
+- !!python/unicode
+  'zlib=1.2.8=3'
+- !!python/unicode
+  'opencv3=3.2.0=np111py27_0'
+- pip:
+  - actionlib==1.11.9
+  - angles==1.9.11
+  - backports-abc==0.5
+  - backports.shutil-get-terminal-size==1.0.0
+  - backports.ssl-match-hostname==3.4.0.2
+  - bondpy==1.7.19
+  - camera-calibration==1.12.20
+  - camera-calibration-parsers==1.11.12
+  - catkin==0.6.19
+  - catkin-pkg==0.3.4
+  - controller-manager==0.9.4
+  - controller-manager-msgs==0.9.4
+  - cv-bridge==1.11.15
+  - diagnostic-analysis==1.9.0
+  - diagnostic-common-diagnostics==1.9.0
+  - diagnostic-updater==1.9.0
+  - docutils==0.13.1
+  - dynamic-reconfigure==1.5.48
+  - gazebo-plugins==2.4.13
+  - gazebo-ros==2.4.13
+  - gencpp==0.5.5
+  - genlisp==0.4.15
+  - genmsg==0.5.8
+  - genpy==0.5.10
+  - image-geometry==1.11.15
+  - interactive-markers==1.11.3
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.0.1
+  - jupyter-console==5.1.0
+  - jupyter-core==4.3.0
+  - laser-geometry==1.6.4
+  - message-filters==1.11.21
+  - pluginlib==1.10.5
+  - prompt-toolkit==1.0.14
+  - python-qt-binding==0.2.19
+  - pyyaml==3.12
+  - qt-dotgraph==0.2.32
+  - qt-gui==0.2.32
+  - qt-gui-cpp==0.2.32
+  - qt-gui-py-common==0.2.32
+  - resource-retriever==1.11.8
+  - rosbag==1.11.21
+  - rosboost-cfg==1.11.14
+  - rosclean==1.11.14
+  - roscreate==1.11.14
+  - rosgraph==1.11.21
+  - roslaunch==1.11.21
+  - roslib==1.11.14
+  - roslint==0.10.0
+  - roslz4==1.11.21
+  - rosmake==1.11.14
+  - rosmaster==1.11.21
+  - rosmsg==1.11.21
+  - rosnode==1.11.21
+  - rosparam==1.11.21
+  - rospkg==1.1.1
+  - rospy==1.11.21
+  - rosservice==1.11.21
+  - rostest==1.11.21
+  - rostopic==1.11.21
+  - rosunit==1.11.14
+  - roswtf==1.11.21
+  - rqt-action==0.4.8
+  - rqt-bag==0.4.8
+  - rqt-bag-plugins==0.4.8
+  - rqt-console==0.4.8
+  - rqt-dep==0.4.8
+  - rqt-graph==0.4.8
+  - rqt-gui==0.4.8
+  - rqt-gui-py==0.4.8
+  - rqt-image-view==0.4.8
+  - rqt-launch==0.4.8
+  - rqt-logger-level==0.4.8
+  - rqt-moveit==0.5.7
+  - rqt-msg==0.4.8
+  - rqt-nav-view==0.5.7
+  - rqt-plot==0.4.8
+  - rqt-pose-view==0.5.7
+  - rqt-publisher==0.4.8
+  - rqt-py-common==0.4.8
+  - rqt-py-console==0.4.8
+  - rqt-reconfigure==0.4.8
+  - rqt-robot-dashboard==0.5.7
+  - rqt-robot-monitor==0.5.7
+  - rqt-robot-steering==0.5.7
+  - rqt-runtime-monitor==0.5.7
+  - rqt-rviz==0.5.7
+  - rqt-service-caller==0.4.8
+  - rqt-shell==0.4.8
+  - rqt-srv==0.4.8
+  - rqt-tf-tree==0.5.7
+  - rqt-top==0.4.8
+  - rqt-topic==0.4.8
+  - rqt-web==0.4.8
+  - rviz==1.11.15
+  - sensor-msgs==1.11.9
+  - smach==2.0.0
+  - smach-ros==2.0.0
+  - smclib==1.7.19
+  - tf==1.11.8
+  - tf-conversions==1.11.8
+  - tf2-geometry-msgs==0.5.15
+  - tf2-kdl==0.5.15
+  - tf2-py==0.5.15
+  - tf2-ros==0.5.15
+  - tf2-sensor-msgs==0.5.15
+  - xacro==1.9.5
+prefix: !!python/unicode '/home/hjlim99/miniconda2/envs/python2'
+
