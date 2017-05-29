@@ -1,2 +1,2 @@
-System_setup	 
-preprocessing
+- System_setup : 시스템 준비 
+- preprocessing : 학습 데이터 준비 
