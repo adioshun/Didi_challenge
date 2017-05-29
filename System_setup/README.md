@@ -3,7 +3,7 @@
 |1|ROS설치|완료|ubuntu 14.04|
 |2|시각화|완료|.|
 |3|extracting data from rosbag|완료|python2|
-|4|converting lidar dumy to projection files|완료|python2|
+|4|converting lidar dumy to projection files|진행중|python2|
 |5|train a simple CNN|진행중|python3|
 
 ## 1. Install ROS Kinetic (Above)
