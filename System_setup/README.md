@@ -92,8 +92,8 @@ python lidar.py # terminal 3
 
 에러: 
 - No module names mayavi.mlab
- - python2 : conda install -c anaconda mayavi 
- - python3 : conda install -c clinicalgraphics vtk=7.1.0; pip install mayavi 
+  - python2 : conda install -c anaconda mayavi 
+  - python3 : conda install -c clinicalgraphics vtk=7.1.0; pip install mayavi 
 - No module named builtins -> pip install future
 - No module named easydict-> sudo pip install easydict; pip install easydict 
 - No module named simplejson -> pip install simplejson
