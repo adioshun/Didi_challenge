@@ -105,3 +105,7 @@ python lidar.py # terminal 3
 - ImportError: Could not import backend for traits -> conda install -c conda-forge pyside=1.2.4 ,[참고](https://github.com/enthought/mayavi/issues/483)
 
 ## 5. train a simple CNN
+
+
+---
+> https://github.com/yukitsuji/ubuntu_setup
