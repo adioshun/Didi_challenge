@@ -12,36 +12,8 @@
 - python : miniconda2(python 2)
 
 ## ROS 설치 
-```bash 
-# INSTALL ROS INDIGO - in ubuntu 14.04
+> [참고](https://github.com/adioshun/Blog_Jekyll/blob/master/2017-05-18-ROS.md)
 
-# ADD TO APT REPOSITORY LIST
-sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu trusty main" > /etc/apt/sources.list.d/ros-latest.list'
-
-# SETUP KEYS 
-sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net --recv-key 421C365BD9FF1F717815A3895523BAEEB01FA116
-
-# UPDATE APT PACKAGE LIST
-sudo apt-get update
-
-# INSTALL THE DESKTOP FULL VERSION
-sudo apt-get install ros-indigo-desktop-full
-
-# BARE BONES VERSION - NO GUI 
-# sudo apt-get install ros-indigo-ros-base
-
-# INITIALIZE ROSDEP
-sudo rosdep init
-rosdep update
-
-# ENVIRONMENT SETUP
-echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc
-source ~/.bashrc
-
-# GET ROSINSTALL
-sudo apt-get install python-rosinstall
-# pip install catkin_pkg rospkg pyyaml #python version 2
-```
 ## 2. 시각화 
 ### Velodyne 
 - 설치 : ` apt-get install ros-indigo-velodyne`
